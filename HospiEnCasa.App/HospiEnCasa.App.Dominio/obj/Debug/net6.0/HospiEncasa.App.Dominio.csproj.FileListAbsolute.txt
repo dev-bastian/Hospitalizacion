@@ -1,0 +1,12 @@
+/home/sebastian/Escritorio/csharp/Hospitalizacion/HospiEnCasa.App/HospiEnCasa.App.Dominio/obj/Debug/net6.0/HospiEncasa.App.Dominio.csproj.AssemblyReference.cache
+/home/sebastian/Escritorio/csharp/Hospitalizacion/HospiEnCasa.App/HospiEnCasa.App.Dominio/obj/Debug/net6.0/HospiEncasa.App.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+/home/sebastian/Escritorio/csharp/Hospitalizacion/HospiEnCasa.App/HospiEnCasa.App.Dominio/obj/Debug/net6.0/HospiEncasa.App.Dominio.AssemblyInfoInputs.cache
+/home/sebastian/Escritorio/csharp/Hospitalizacion/HospiEnCasa.App/HospiEnCasa.App.Dominio/obj/Debug/net6.0/HospiEncasa.App.Dominio.AssemblyInfo.cs
+/home/sebastian/Escritorio/csharp/Hospitalizacion/HospiEnCasa.App/HospiEnCasa.App.Dominio/obj/Debug/net6.0/HospiEncasa.App.Dominio.csproj.CoreCompileInputs.cache
+/home/sebastian/Escritorio/csharp/Hospitalizacion/HospiEnCasa.App/HospiEnCasa.App.Dominio/bin/Debug/net6.0/HospiEncasa.App.Dominio.deps.json
+/home/sebastian/Escritorio/csharp/Hospitalizacion/HospiEnCasa.App/HospiEnCasa.App.Dominio/bin/Debug/net6.0/HospiEncasa.App.Dominio.dll
+/home/sebastian/Escritorio/csharp/Hospitalizacion/HospiEnCasa.App/HospiEnCasa.App.Dominio/bin/Debug/net6.0/HospiEncasa.App.Dominio.pdb
+/home/sebastian/Escritorio/csharp/Hospitalizacion/HospiEnCasa.App/HospiEnCasa.App.Dominio/obj/Debug/net6.0/HospiEncasa.App.Dominio.dll
+/home/sebastian/Escritorio/csharp/Hospitalizacion/HospiEnCasa.App/HospiEnCasa.App.Dominio/obj/Debug/net6.0/refint/HospiEncasa.App.Dominio.dll
+/home/sebastian/Escritorio/csharp/Hospitalizacion/HospiEnCasa.App/HospiEnCasa.App.Dominio/obj/Debug/net6.0/HospiEncasa.App.Dominio.pdb
+/home/sebastian/Escritorio/csharp/Hospitalizacion/HospiEnCasa.App/HospiEnCasa.App.Dominio/obj/Debug/net6.0/ref/HospiEncasa.App.Dominio.dll
